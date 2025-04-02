@@ -1,3 +1,20 @@
+atividade da aula dia 02/04 algoriitmo cadastro salarial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
